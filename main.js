@@ -44,4 +44,4 @@ document.addEventListener('DOMContentLoaded', function () {
     if (mainOptions.length > 0) {
         mainOptions[0].click();
     }
-});
+}); 

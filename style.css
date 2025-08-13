@@ -25,7 +25,7 @@ body {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     justify-items: center;
-    grid-gap: .8em;
+    grid-gap: .8em; 
 }
 
 .table-cell {
